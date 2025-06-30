@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "c70a",
+      "title": "Halo",
+      "completed": false
+    },
+    {
+      "id": "c0ba",
+      "title": "Ini Todo List",
+      "completed": false
+    }
+  ]
+}
