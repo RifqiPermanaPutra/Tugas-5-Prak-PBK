@@ -1,13 +1,18 @@
 {
   "todos": [
     {
-      "id": "c70a",
-      "title": "Halo",
+      "id": "1",
+      "title": "Belajar Vue Composition API",
       "completed": false
     },
     {
-      "id": "c0ba",
-      "title": "Ini Todo List",
+      "id": "2",
+      "title": "Buat Todo List dengan Axios",
+      "completed": false
+    },
+    {
+      "id": "fa7e",
+      "title": "belajar vue",
       "completed": false
     }
   ]
